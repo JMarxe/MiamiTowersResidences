@@ -24,11 +24,11 @@ The top three high probability and high impact risks to this project are:
 
 As we all know Covid-19 has impacted all our lives in many ways, and because of this it has also affected companies manufacturing process. This may cause issues with the expected delivery dates for the supplies to work on this project. The project manager will have to stay in constant communication with these companies to make sure these supplies arrive on time.
 
-1. **LED lights lifespan**
+2. **LED lights lifespan**
 
 The benefit of the lighting system we have gone with means the lights themselves will last much longer. Yet, that does not mean LED lights are perfect. LED lights are more efficient than halogen lights, but if the heat generated from the lights is trapped in the bulb, then the components inside can fail much quicker than intended. If there is not sufficient ventilation around the LED lights this can cause them to fail prematurely. The project manager will have to make sure the lights are placed in well ventilated areas to ensure they do not fail before they are supposed to.
 
-1. **Weather Risks**
+3. **Weather Risks**
 
 One major concern of ours is the weather here in Miami. It can be very unpredictable and hard to work around. From one minute to the next we can go from harsh storms to a beautiful sunny day. This makes working on electrical lighting fixtures very difficult as well as installing the solar panel on the roof of the building. To lower this risk of any damage to our supplies the project manager will have to keep up with weather forecasts daily.
 
@@ -79,13 +79,13 @@ Previously we have discussed the risks that could greatly impact our project. We
 
 1. _Supplier's risk:_ The reason for this procedure is because of any risk our suppliers have or can have. Will have an impact on their ability to deliver to us. Those risks include financial risk, economic risk, and political conditions that can potentially hurt their ability to serve us.
 
-1. _Review Risk Periodically:_ The purpose of this procedure is to make sure that all risks are being monitored on a weekly basis. In addition, this will allow us to identify any threats to the supply chain, financing, and scheduling issues. Also, it can help us prepare in advance if we see a certain risk increasing.
+2. _Review Risk Periodically:_ The purpose of this procedure is to make sure that all risks are being monitored on a weekly basis. In addition, this will allow us to identify any threats to the supply chain, financing, and scheduling issues. Also, it can help us prepare in advance if we see a certain risk increasing.
 
-1. _Diverse Suppliers:_ Having more than one supplier will reduce or even more so avoid supply risk altogether. For this reason, we have established other suppliers in different locations and have a pre contract agreement in place to speed up the process.
+3. _Diverse Suppliers:_ Having more than one supplier will reduce or even more so avoid supply risk altogether. For this reason, we have established other suppliers in different locations and have a pre contract agreement in place to speed up the process.
 
-1. _Uncertainty Risk:_ Due to the nature of the project, the contingency plan to avoid uncertainty risk is to finish the project earlier. If we can have the project work done faster, or some elements of it. This may avoid uncertainty risk.
+4. _Uncertainty Risk:_ Due to the nature of the project, the contingency plan to avoid uncertainty risk is to finish the project earlier. If we can have the project work done faster, or some elements of it. This may avoid uncertainty risk.
 
-1. _Schedule Risk Analysis:_ SRA is an effective technique that will help us mitigate the risk of scheduling. SRA can help us with our activity time with better precision. Finishing the project on time priority and for that reason we conducted a Schedule risk analysis.
+5. _Schedule Risk Analysis:_ SRA is an effective technique that will help us mitigate the risk of scheduling. SRA can help us with our activity time with better precision. Finishing the project on time priority and for that reason we conducted a Schedule risk analysis.
 
 **RISK REGISTER**
 
