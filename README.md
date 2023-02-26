@@ -38,7 +38,7 @@ This section provides a general description for the approach taken to identify a
 
 The first step we have taken to mitigate these project risks is by evaluating the top risks this project can have. We have added these risks to a list and communicated them to our risk managers. The risk managers will take this information and make the necessary adjustments needed when the time comes during the project schedule. They will also stay in communication with the rest of the team and give status reports on our team meetings we added to the project schedule. Towards the end of the project the project manager will analyze how the risks impacted the project and how the risk managers performed under pressure to ensure the project would be completed on the scheduled date. Also, the project manager will discuss any type of improvements that could be made for other future projects.
 
-<h1>Risk IdentificationN</h1>
+<h1>Risk Identification</h1>
 
 This section explains the process by which the risks associated with this project were identified. It should describe the method(s) for how the project team identified risks, the format in which Risk Management Plan Template
 
