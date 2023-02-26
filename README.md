@@ -93,7 +93,7 @@ All listed risks for this project & for the project management team to use to so
 
 <p align="center">
 Launch the utility: <br/>
-<img src="[https://i.imgur.com/62TgaWL.png](https://user-images.githubusercontent.com/114123232/221404343-de8e48cd-bbca-40b3-a805-041c703a0902.jpg)" height="80%" width="80%"/>
+<img src="(https://user-images.githubusercontent.com/114123232/221404343-de8e48cd-bbca-40b3-a805-041c703a0902.jpg)" height="80%" width="80%"/>
 <br />
 
 The Risk Register will be maintained as an appendix to this Risk Management Plan.
