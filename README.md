@@ -91,7 +91,7 @@ Previously we have discussed the risks that could greatly impact our project. We
 
 All listed risks for this project & for the project management team to use to solve problems. This important tool analyzes risks in big projects & reduces mitigation or avoidance of risk.
 
-(RackMultipart20230226-1-xshckc_html_45f6e18bb6a0c55b.png)
+![RiskRegister](https://user-images.githubusercontent.com/114123232/221404148-e041c5ac-0341-41af-83f4-2057b5d4ac33.png)
 
 The Risk Register will be maintained as an appendix to this Risk Management Plan.
 
