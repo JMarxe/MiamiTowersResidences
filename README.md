@@ -1,5 +1,9 @@
 <h1>Miami Towers Residences</h1>
 
+<p align="center">
+<img src="https://cf.bstatic.com/xdata/images/hotel/max1280x900/159338190.jpg?k=2fad4cfc58e570935b60439a7f87c7cf4c13bc11a710c95c846834c2e486f28b" height="80%" width="80%"/>
+<br />
+
 <h1>Introduction</h1>
 
 This project is considered a medium to low-risk project. This is due to the project risk comparison of multiple projects profitability to succeed. In addition, it was hard to assign a risk matrix to the project because of its unique nature. The risk matrix we implemented was based on the identity of a potential risk and to see if the risk was material enough to classify it as such. Moreover, we put the risk in a category of low, medium, high, and Unknown. Furthermore, impact level of low, medium, high, and unknown.
